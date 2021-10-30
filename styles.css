@@ -1,0 +1,45 @@
+p {
+    color: black;
+    margin: 10px 10px;
+}
+
+h3 {
+    color: green;
+}
+
+a[href] {
+    color: purple;
+}
+
+img {
+    height: 350px;
+    width: 350px;
+}
+
+h5 {
+    color: darkcyan;
+    padding: 10px;
+}
+
+.title {
+    box-shadow: 10px 10px 10px #000;
+}
+
+#example {
+    box-shadow: 10px 10px 10px #000;
+}
+
+table {
+    padding: 16px;
+}
+
+tr {
+    background-color: antiquewhite;
+}
+
+body {
+    background-color: azure;
+}
+
+
+
